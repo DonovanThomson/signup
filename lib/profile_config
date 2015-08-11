@@ -1,0 +1,5 @@
+
+### Notebook custom configuration ###
+
+c.KernelManager.kernel_cmd = %s
+c.Session.key = ''
